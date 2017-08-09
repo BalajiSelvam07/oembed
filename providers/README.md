@@ -10,7 +10,7 @@
     - http://provider.com/post/*
     url: http://api.provider.com/oembed.json
     docs_url: http://dev.provider.com/api/oembed/
-    example_urls:
+    example_ur
     - http://api.provider.com/oembed.json?url=http://provider.com/post/f00ba2
     discovery: true
     notes: Provider only supports the 'rich' type
